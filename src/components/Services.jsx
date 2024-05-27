@@ -28,7 +28,7 @@ const Services = () => {
             <div
               className="absolute top-0 left-0 
             w-full h-full pointer-events-none
-            md:w-3.5 xl:w-auto"
+            md:w-3/5 xl:w-auto"
             >
               <img
                 className="w-full h-full object-cover md:object-right"
